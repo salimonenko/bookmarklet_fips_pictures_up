@@ -1,0 +1,16 @@
+Ёто - букмарклет дл€ повышени€ удобства работы с сайтом https://fips.ru/. ѕроверена работа в браузерах Firefox 24, Firefox 36.
+Ќомер свидетельства о регистрации: 2021617960 (2021 г.)
+
+Ќомер регистрации (свидетельства о регистрации):2024612502 (2024 г.)
+
+≈сли открыть веб-страницу с текстом патента, то внизу нередко бывают рисунки (figures), по€сн€ющие суть патента. “от факт, что рисунки расположены внизу, делает изучение патента очень неудобной, особенно, если текст патента - большой. »бо в тексте то и дело есть ссылки на рисунки и каждый раз приходитс€ пролистывать патент вверх-вниз. Ёто - волокитно и приводит к излишним затратам времени. » если требуетс€ просмотреть множество патентов (например, при поиске аналогов изобретений), то тем более.
+ѕоэтому € сделал небольшой букмарклет, который можно сохранить в закладках браузера. ѕосле открыти€ вебст раницы с патентом можно вызвать букмарклет из закладок. ѕри этом слева вебстраницы по€витс€ зеленовата€ панель. » если в тексте патента есть рисунки, наход€щиес€ внизу, то они (как правило) будут перемещены в эту панель. » их можно пролистывать ќ“ƒ≈Ћ№Ќќ от текста патента. “.е. можно одновременно читать его текст и смотреть на рисунки. 
+≈сли панель мешает, ее можно свернуть, нажав на соответствующую кнопку. »ли, напротив, развернуть.
+—крипт актуален, по крайней мере, на конец 2023 г. ¬озможно, если сайт fips.ru изменит html-код вебстраниц с патентами, данный скрипт придетс€ исправить соответствующим образом. 
+
+
+This is a bookmarklet to improve the convenience of working with the site https://fips.ru/ (for invention patents in Russia). 
+Registration number (registration certificate): 2024612502 (2024).
+For testing only. To purchase a bookmarklet, please contact its copyright holders.
+Tested to work in Firefox 24, Firefox 36 browsers. If you open a web page with the text of a patent, there are often figures (pictures) at the bottom to explain the essence of the it. The fact that the pictures are located at the bottom, makes very inconvenient the patent studying, especially if the patent text is large. Because there are links to pictures in the text and that's why one have to scroll through the patent up and down every time. This is red tape and wastes time. And one need to look through a lot of patents (for example, when searching for analogues of inventions), then even more so. 
+So I made a little bookmarklet that one can save to his browser bookmarks. After opening a patent web page, you can call up the bookmarklet from your bookmarks. At the same time, a greenish panel will appear on the left of the web page. And if the patent text contains pictures below, then they will (usually) be moved to this panel. And they can be scrolled SEPARATELY from the text of the patent. You can simultaneously read his text and look at the pictures. If the panel is in the way, you can collapse it by clicking on the corresponding button. Or, on the contrary, expand. The script is relevant at least at the end of 2023. It is possible that if the fips.ru website changes the html code of web pages with patents, this script will have to be corrected accordingly.
