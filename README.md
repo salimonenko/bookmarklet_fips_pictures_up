@@ -1,7 +1,7 @@
 # bookmarklet_fips_pictures_up
- Bookmarklet for fips.ru patents pictures to work
+ Bookmarklet for fips.ru patents pictures to operate
 
-This is the bookmarklet to improve the convenience of working with the site https://fips.ru/ (for invention patents in Russia). 
+This is the bookmarklet to improve the convenience of operating with the site https://fips.ru/ (for invention patents in Russia). 
 
 Registration number (registration certificate): 2024612502 (2024).
 
